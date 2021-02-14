@@ -18,9 +18,16 @@
 ## Komutlar
 
 ```
-Meslek verme komutu
+Meslek verme komutu:
 !cofivem meslekver steam_hex meslek meslek_seviyesi
  
  
+Sarı sayfaları listeleme :
+!cofivem sarı sayı
+Sayı => kaç adet göstermesini istediğiniz sayıdır. (!cofivem sarı 10)
+
+Twitter listeleme :
+!cofivem twitter sayı
+Sayı => kaç adet göstermesini istediğiniz sayıdır. (!cofivem sarı 10)
  
 ```
