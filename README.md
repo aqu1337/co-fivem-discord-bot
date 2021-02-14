@@ -51,7 +51,7 @@ npm install util
 
 config.js dosyasına lisans anahtarınızı girin.
 
-örnek :   this.lisans = "CO-FIVEM-130eca5e4e26639d3f66c8d4d4c5c6358ae9ba31";
+örnek :   this.lisans = "CO-FIVEM-130eca5e4e26639d3f66c8d4d4c5c6358ae9ba32";
 
 config.js dosyasındaki mysql bilgilerinizi girin.
 
