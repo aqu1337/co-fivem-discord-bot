@@ -68,9 +68,11 @@ config.js dosyasını kendi istediğiniz gibi ayarlayabilirsiniz.
 herşeyi tamamladıktan sonra terminale : node index.js  : yazarak başlatabilirsiniz.
 
 
-Kurulum ve lisans için bize ulaşabilirsiniz - discord : https://cokluk.com/discord
+
 
 
 
 ```
+
+Kurulum ve lisans için bize ulaşabilirsiniz - discord : https://cokluk.com/discord
 
