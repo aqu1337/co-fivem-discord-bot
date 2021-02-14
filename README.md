@@ -21,6 +21,9 @@
 Meslek verme komutu:
 !cofivem meslekver steam_hex meslek meslek_seviyesi
  
+Telefon log listeleme :
+!cofivem tellog steam_hex sayı
+Sayı => kaç adet göstermesini istediğiniz sayıdır. (!cofivem tellog steam:11000010adab671 10) 
  
 Sarı sayfaları listeleme :
 !cofivem sarı sayı
@@ -28,6 +31,6 @@ Sayı => kaç adet göstermesini istediğiniz sayıdır. (!cofivem sarı 10)
 
 Twitter listeleme :
 !cofivem twitter sayı
-Sayı => kaç adet göstermesini istediğiniz sayıdır. (!cofivem sarı 10)
+Sayı => kaç adet göstermesini istediğiniz sayıdır. (!cofivem twitter 10)
  
 ```
