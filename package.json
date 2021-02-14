@@ -1,0 +1,20 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "github - cokluk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^12.5.1",
+    "mysql": "^2.18.1",
+    "mysql-async-simple": "^1.0.3",
+    "nodemon": "^2.0.7",
+    "request-cloudflare": "^2.0.0",
+    "util": "^0.12.3"
+  }
+}
