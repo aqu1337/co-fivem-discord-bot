@@ -3,7 +3,8 @@
 
 ##  Çalışması için gereken modüller:
 
-```"dependencies": {
+```
+"dependencies": {
     "discord-webhook-node": "^1.1.8",
     "discord.js": "^12.5.1",
     "mysql": "^2.18.1",
