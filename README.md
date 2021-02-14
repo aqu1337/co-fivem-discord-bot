@@ -76,3 +76,5 @@ herşeyi tamamladıktan sonra terminale : node index.js  : yazarak başlatabilir
 
 Kurulum ve lisans için bize ulaşabilirsiniz - discord : https://cokluk.com/discord
 
+Adresinden direk discord sunucumuza bağlanabilirsiniz.
+
