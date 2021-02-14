@@ -15,4 +15,12 @@
   }
   ```
   
-  Komutlar
+## Komutlar
+
+```
+Meslek verme komutu
+!cofivem meslekver steam_hex meslek meslek_seviyesi
+ 
+ 
+ 
+```
