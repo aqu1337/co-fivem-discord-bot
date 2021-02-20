@@ -128,3 +128,5 @@ Kurulum ve lisans için bize ulaşabilirsiniz - discord : https://discord.gg/QeF
 
 Adresinden direk discord sunucumuza bağlanabilirsiniz.
 
+CoMaven Tarafından ❤️ ile oluşturulmuştur.
+
