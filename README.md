@@ -51,6 +51,10 @@ id => Kullanıcının steam64 idsini istenilen yazmalısınız. (!cofivem hex_id
 Tüm destek ekibine mesej:
 !destek = yazmanız eğer destek özelliği açıksa tüm destek ekibine mesaj gönderimi yapacaktır.
 
+Durum kanalını bakıma veya aktif hale getirebilirsiniz:
+!cofivem durum 1 = aktif 
+!cofivem durum 0 = bakım 
+ 
  
 ```
 
