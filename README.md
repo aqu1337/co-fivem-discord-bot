@@ -24,6 +24,19 @@ Telefon log listeleme :
 !cofivem tellog steam_hex sayı
 Sayı => kaç adet göstermesini istediğiniz sayıdır. (!cofivem tellog steam:11000010adab671 10) 
  
+Araç verme komutu :
+!cofivem arac id araç
+id = oyuncu id'si
+araç => aracın kodu örnek : dubsta 
+örnek kullanım : (!cofivem arac 1 dubsta) 
+
+Item verme komutu :
+!cofivem itemver id item sayı
+id = oyuncu id'si
+item => itemin kodudur.
+Sayı => kaç adet verilmesini istediğiniz sayıdır.
+örnek kullanım : (!cofivem itemver 1 cash 9999) 
+
 Sarı sayfaları listeleme :
 !cofivem sarı sayı
 Sayı => kaç adet göstermesini istediğiniz sayıdır. (!cofivem sarı 10)
