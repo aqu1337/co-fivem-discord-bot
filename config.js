@@ -8,6 +8,7 @@ module.exports = class Config  {
         this.test_mod = false;
 
         // FIVEM 
+        this.paket_turu = "disc";
         this.dc_aktif_on = "CoMaven | Aktif oyuncu 0/";
         this.dc_durum = true; // ONLINE SAYISI 
         this.yenileme_zamani = 5000; // 1000 = 1sn
@@ -23,6 +24,11 @@ module.exports = class Config  {
         this.durum_yenileme_zamani = 5000;  // 1000 = 1sn
         this.sunucu_durum_kanali_id = "812154522721845269";
  
+
+        this.player_list_kanali = true; 
+        this.player_list_yenileme_zamani = 5000;  // 1000 = 1sn
+        this.player_list_kanali_id = "814742807310368780";
+
         //KOMUTLAR
         this.durum = "!durum";
         this.durum_perm = false; // true YAPARSANIZ SADECE rol_izni OLANLAR KULLANIR
@@ -41,11 +47,16 @@ module.exports = class Config  {
         //CO-FIVEM
         this.prefix = "!";
         this.prefix2 = "cofivem";
-        this.discord_token = "BURAYA DISCORD TOKENINIZ";
+        this.discord_token = "DISCORD BOT TOKEN";
         this.rol_izni =  "CO-FIVEM";
         this.destek_mesaj = false; // DESTEK VARSAYILAN KAPALI GELİR
         this.guncelleme_kontrol = true;
         this.destek_ekibi_id_listesi =  ["686944474945159168" , "765894055820263435", "810742313797287967"];
+
+
+
+
+
  
     }
 
