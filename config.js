@@ -22,12 +22,12 @@ module.exports = class Config  {
 
         this.sunucu_durum_kanali = true;
         this.durum_yenileme_zamani = 5000;  // 1000 = 1sn
-        this.sunucu_durum_kanali_id = "812154522721845269";
+        this.sunucu_durum_kanali_id = "durum";
  
 
         this.player_list_kanali = true; 
         this.player_list_yenileme_zamani = 5000;  // 1000 = 1sn
-        this.player_list_kanali_id = "814742807310368780";
+        this.player_list_kanali_id = "oyuncu-listesi";
 
         //KOMUTLAR
         this.durum = "!durum";
