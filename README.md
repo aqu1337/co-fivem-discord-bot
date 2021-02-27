@@ -5,6 +5,10 @@
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://cokluk.com/dl/co1.png">  Oyuncu listesi |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://cokluk.com/dl/co2.png"> Oyuncu sayısı |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://cokluk.com/dl/co3.png"> Sunucu durumu |
 
+Kurulum ve lisans için discord adresimize bekliyoruz : 
+[![Discord](https://img.shields.io/discord/811163975700971540?label=Discord&logo=Discord)][discord]
+
+
 Bu paketin çalışması için gereken fivem scriptleri = co_logger ve WebSocketServer 'dir.
 
 ##  Çalışması için gereken modüller:
