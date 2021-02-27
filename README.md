@@ -1,4 +1,8 @@
 # co-fivem-discord-bot
+![alt text](https://cokluk.com/dl/co1.png)
+![alt text](https://cokluk.com/dl/co2.png)
+![alt text](https://cokluk.com/dl/co3.png)
+
 
 Bu paketin çalışması için gereken fivem scriptleri = co_logger ve WebSocketServer 'dir.
 
