@@ -17,14 +17,33 @@ Bu paketin çalışması için gereken fivem scriptleri = co_logger ve WebSocket
 ## Komutlar
 
 ```
-Meslek verme komutu:
+
+Server.cfg grubu atama:
+!cofivem cfg_grup steam_hex superadmin
+[Bu verilen grup yetkisi kalıcı olmayacaktır, sunucu yeniden başlatıldığında silinecektir.]
+
+Uzaktan komut gönderme:
+!cofivem komut yazmak istediğiniz komut 
+Örnek cfg komutları , set, exec, sets, start, stop, restart, ensure, add_ace, add_principal &&
+
+
+Meslek verme komutu [ID]:
+!cofivem meslek id meslek seviye
+
+Meslek verme komutu [HEX]:
 !cofivem meslekver steam_hex meslek meslek_seviyesi
  
 Telefon log listeleme :
 !cofivem tellog steam_hex sayı
 Sayı => kaç adet göstermesini istediğiniz sayıdır. (!cofivem tellog steam:11000010adab671 10) 
  
-Araç verme komutu :
+Araç verme komutu [SPAWN + ARAÇ SAHİPLİĞİ]:
+!cofivem arac_sahip id araç
+id = oyuncu id'si
+araç => aracın kodu örnek : dubsta 
+örnek kullanım : (!cofivem arac_sahip 1 dubsta) 
+
+Araç verme komutu [SADECE SPAWN]:
 !cofivem arac id araç
 id = oyuncu id'si
 araç => aracın kodu örnek : dubsta 
@@ -63,6 +82,13 @@ id => Kullanıcının steam64 idsini istenilen yazmalısınız. (!cofivem hex_id
 
 Tüm destek ekibine mesej:
 !destek = yazmanız eğer destek özelliği açıksa tüm destek ekibine mesaj gönderimi yapacaktır.
+
+Whitelist ekleme [HEX]:
+!cofivem wl_ekle steam_hex
+
+Whitelist silme [HEX]:
+!cofivem wl_sil steam_hex
+
 
 Durum kanalını bakıma veya aktif hale getirebilirsiniz:
 !cofivem durum 1 = aktif 
