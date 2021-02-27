@@ -1,11 +1,9 @@
 # co-fivem-discord-bot
-![alt text](https://cokluk.com/dl/co1.png)
-![alt text](https://cokluk.com/dl/co2.png)
-![alt text](https://cokluk.com/dl/co3.png)
+ 
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://cokluk.com/dl/co1.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://cokluk.com/dl/co2.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://cokluk.com/dl/co3.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://cokluk.com/dl/co1.png">  Oyuncu listesi |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://cokluk.com/dl/co2.png"> Oyuncu sayısı |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://cokluk.com/dl/co3.png"> Sunucu durumu |
 
 Bu paketin çalışması için gereken fivem scriptleri = co_logger ve WebSocketServer 'dir.
 
